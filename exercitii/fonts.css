@@ -1,0 +1,49 @@
+body{
+    box-sizing: border-box;
+}
+#p1{
+
+    font-weight: bolder;
+    font-family: 'Lobster', cursive;
+    text-decoration-line: underline;
+    font-size: 1.2em;
+    text-align: justify;
+    border: 3px solid black;
+    border-radius:1em;
+    padding: 5px 10px 20px;
+    margin: auto;
+    background-color: hotpink;
+    color: indigo;
+    background-image:url( "background.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 70%;
+    height: 210px;
+    
+
+}
+
+p {
+
+    font-weight: normal;
+    line-height: 1.5em;
+    
+}
+
+#p1 span{
+    color:rgba(10, 121, 78, 0.616);
+}
+
+div{
+
+    background-color: greenyellow;
+    border: 2px solid blue;
+    padding: 10px;
+}
+
+div div{
+
+    background-color:turquoise;
+    border:2px solid black;
+    width: 75%;
+}

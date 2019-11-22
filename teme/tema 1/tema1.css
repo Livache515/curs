@@ -9,11 +9,11 @@ p{
    background-image: url(background.gif);
    background-repeat:no-repeat;
    margin:1em;
-   border: dashed whitesmoke;
+   border:whitesmoke dashed;
    padding:30px 80px 20px;
    text-align: justify;
    width:auto;
    height:auto;
    font-style: italic;
-   font-family:Georgia, 'Times New Roman', Times, serif
+   font-family:serif;
 }

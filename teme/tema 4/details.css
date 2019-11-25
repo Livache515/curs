@@ -1,0 +1,36 @@
+body{
+    box-sizing: border-box;
+    border: ridge;
+    font-family: sans-serif;
+    width: 50%;
+    height: 120%;
+}
+
+
+h1{
+    color:#00bfff;
+    font-weight: bold;
+    font-size: 20px;
+    margin: auto;
+    text-align: justify;
+    
+}
+
+p{
+    line-height: 25px;
+}
+
+span{
+    font-weight: bolder;
+    font-style: normal;
+   
+}
+
+.song{
+    font-style: italic;
+    
+}
+
+div{
+    line-height:1%;
+}

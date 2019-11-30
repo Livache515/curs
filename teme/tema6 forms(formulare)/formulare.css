@@ -1,0 +1,14 @@
+*{
+    font-family: cursive;
+}
+
+body{
+    margin: auto;
+    margin-top: 1%;
+    box-sizing: border-box;
+    border:groove black;
+    padding: 2%;
+    width: 30%;
+    height: 60%;
+}
+

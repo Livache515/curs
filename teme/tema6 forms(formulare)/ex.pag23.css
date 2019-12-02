@@ -1,0 +1,55 @@
+*{
+    margin: auto;
+    margin-top: 10px;
+    font-family: sans-serif;
+    width: 65%;
+    height: 56%;
+}
+
+form{
+    font-size: 1em;
+}
+
+h1{
+    text-align:left;
+    font-size: 1.3em;
+    width: 65%;
+    height: 20%;
+}
+
+input[type=text]{
+    font-size: medium;
+    border: thin;
+    border-bottom:ridge;
+    border-bottom-color: rgb(242, 242, 242);
+    text-align: left;
+}
+
+label{
+    font-size:small;
+    font-weight: bold;
+    color:#999999;
+}
+
+textarea{
+    border: thin;
+    border-bottom: ridge;
+    font-size: medium;
+    
+}
+
+input[value]{
+    text-align:center;
+    font-size: small;
+    background-image:linear-gradient(to right, #ff33cc, #ff00a0, #ff0071, #ff0041, #ff0000);
+    padding: 2% 1% 5% 2%;
+    border-radius:15px;
+    width: 39%;
+    height: 25%;
+    margin-left: 25%;
+    color: whitesmoke;
+}
+
+::placeholder{
+    color:rgb(230, 230, 230)
+}

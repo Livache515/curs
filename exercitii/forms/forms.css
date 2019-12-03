@@ -1,3 +1,13 @@
-*{
-    box-sizing: border-box;
+progress{
+    appearance: none;
+    -webkit-appearance: none;
+}
+progress::-webkit-progress-bar {
+    background-color: blueviolet;
+    border-radius:3px;
+}
+
+progress::-webkit-progress-value{
+    background-color: chocolate;
+    border-radius: 3px;
 }

@@ -4,9 +4,6 @@
     padding: 0px;
 }
 
-body{
-    margin-left: 10%;
-}
 
 div{
     display: inline-block;
@@ -15,6 +12,7 @@ div{
 
 article{
     font-family: sans-serif;
+    text-align: center;
 }
 
 article h1{
@@ -32,6 +30,9 @@ p{
     font-weight: bold;
     position: relative;
     top:-1.4em;
+}
+#container{
+    text-align: center;
 }
 
 .Sara img{

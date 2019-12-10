@@ -1,0 +1,107 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    margin-left: 10%;
+}
+
+div{
+    display: inline-block;
+    
+}
+
+article{
+    font-family: sans-serif;
+}
+
+article h1{
+    color:rgb(255, 123, 0);
+    font-weight: bold;
+    font-size:40px;
+    text-align: center;
+    padding: 7%;
+
+}
+
+p{
+    text-align: left;
+    color:#969292;
+    font-weight: bold;
+    position: relative;
+    top:-1.4em;
+}
+
+.Sara img{
+    max-width:90%;
+    height:auto;
+}
+
+.Sara input[type="button"]{
+    width:90%;
+    padding:0.3em;
+    border: none;
+    border-top-right-radius: 90%;
+    background-color:rgb(255, 123, 0);
+    color: white;
+    font-size:1em;
+    font-weight: 600;
+    position: relative;
+    top:-1.7em;
+}
+
+.Chris img{
+    max-width:90%;
+    height: auto;
+}
+
+.Chris input[type="button"]{
+    width:90%;
+    padding:0.3em;
+    border: none;
+    border-top-right-radius: 90%;
+    background-color:rgb(255, 123, 0);
+    color: white;
+    font-size:1em;
+    font-weight: 600;
+    position: relative;
+    top:-1.7em;
+}
+
+.Layla img{
+    max-width:90%;
+    height: auto;
+}
+
+.Layla input[type="button"]{
+    width:90%;
+    padding:0.3em;
+    border: none;
+    border-top-right-radius: 90%;
+    background-color:rgb(255, 123, 0);
+    color: white;
+    font-size:1em;
+    font-weight: 600;
+    position: relative;
+    top:-1.7em;
+}
+
+.Jirard img{
+    max-width:90%;
+    height: auto;
+}
+
+.Jirard input[type="button"]{
+    width:90%;
+    padding:0.3em;
+    border: none;
+    border-top-right-radius: 90%;
+    background-color:rgb(255, 123, 0);
+    color: white;
+    font-size:1em;
+    font-weight: 600;
+    position: relative;
+    top:-1.7em;
+}

@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+nav{
+    text-align: right;
+    margin-right: 10%;
+    margin-top: 3%;
+}
+
+li{
+    display: inline;
+    padding: 0.4em;
+}
+
+a{
+    font-size: 0.7em;
+    text-decoration: none;
+    margin-bottom: 15%;
+    padding: 0.8em 0.4em;
+    color: #b3b3b3;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:hover{
+    border-top: solid 3px #00cccc;
+    font-weight: bolder;
+    color: black;
+}
+
+
+
+
+
+

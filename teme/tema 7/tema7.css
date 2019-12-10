@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    text-align: center;
+}
+
+article img{
+    max-width:20%;
+    height: auto;
+    margin-top:18%;
+    size: 12px;
+}
+
+input[type="search"]{
+    width: 40%;
+    padding-top:1.2em;
+    border: solid;
+    border-width: 1.2px 1.5px 3.2px;
+    border-color: #e6e6e6;
+     
+}
+
+footer{
+   padding:3%;
+}
+
+footer input[type="button"]{
+    border:none;
+    background-color: #f2f2f2;
+    padding:0.9em;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    color:#8c8c8c;
+}

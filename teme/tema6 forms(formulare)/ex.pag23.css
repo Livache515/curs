@@ -30,13 +30,14 @@ input[type=text]{
 label{
     font-size:small;
     font-weight: bold;
-    color:#999999;
+    color:#646464;
 }
 
 textarea{
     border: thin;
     border-bottom: ridge;
     font-size: medium;
+    resize: none;
     
 }
 

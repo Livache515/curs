@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+
+input[type="button"]{
+    background-color: pink;
+    color: red;
+    border-radius: 5px;
+    font-size: 3em;
+    padding: 1em;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    margin: auto;
+    height: 3em;
+    width: 6em;
+    cursor: pointer;
+}
+
+.boxLetter{
+    position: absolute;
+    border: blue solid 2px;
+    padding: 1em;
+    border-radius: 1.3em;
+}

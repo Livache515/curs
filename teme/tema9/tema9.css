@@ -4,57 +4,56 @@
     padding: 0px;
 }
 
-article{
+.container{
     font-family: sans-serif;
-    text-align: center;
 }
 
-article h1 {
+h1 {
     color: rgb(255, 123, 0);
-    text-align:left;
-    font-size: 32px;
+    font-size: 2.5em;
     font-weight: lighter;
-    padding:4%;
-    margin-left:32%
+    text-align: center;
+    padding:5% 28% 3%;
 }
 
 .photo {
     border-right: solid #008fb3 3px;
-    margin: 1em 1em;
-    padding: 1em;
+    padding: 0.5em 0.8em 0.6em 14em;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
 }
 
-.aboutme {
-    margin: 1em 1em;
-}
-
-article img {
+img {
     border-radius: 50%;
     display: block;
 }
 
-span{
+.photo p{
     color:#838282;
-    margin-left:15%;
+    text-align:right;
+    padding-right: 65px;
+    font-size: 0.9em;
 }
 
-div{
-    vertical-align: top;
+.aboutme{
     display: inline-block;
-    margin-top:-25%;
-    margin-left: 34%;    
+    vertical-align:top;
+    position: absolute;
+    padding:2.5em;
+    line-height: 2.7em;
 }
 
-div h2{
+h2{
     color:#008fb3;
-    
+    text-align: left;
 }
 
-div p{
-    color:#838282;
-    white-space: pre-line;
-    height:1.2em;
-    font-size:small;
+.aboutme p{
+    color:#8f8e8e;
+    width: 55%;
+    height: 90%;
+    font-size:0.9em;
 }
 
 

@@ -1,0 +1,5 @@
+nav ul {
+    background-color: gainsboro;}
+    nav ul li {
+        display: inline-block;
+    }

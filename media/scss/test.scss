@@ -1,0 +1,11 @@
+@use 'var';
+
+$base_color: orange;
+
+button{
+    background-color: $base_color;
+}
+
+h1 {
+    color: $base_color;
+}

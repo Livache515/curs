@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+div{
+    width: 120vw;
+    height:104vh;
+    background-image: url('utopia.jpg');
+    background-size: cover;
+    animation-name: effect;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    filter:blur(10px);
+}
+
+@keyframes effect {
+    from{
+        filter: grayscale(0%)
+    }
+    to{filter:grayscale(50%)
+
+    }
+}
